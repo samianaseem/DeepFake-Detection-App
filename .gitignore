@@ -1,0 +1,16 @@
+# Ignore Python virtual environment
+DeepfakeProject/venv/
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Ignore heavy AI model files and weights
+*.pth
+*.dat
+*.pkl
+*.h5
+
+# Ignore system files
+.DS_Store
+Thumbs.db
